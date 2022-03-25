@@ -20,6 +20,8 @@
         </header>
         <div id="main-contents">
             This is page 1, the home page.
+            <?php echo "hallo" ?>
+
         </div>
         <footer>
             Contact us at webmaster@mywebsite.com
