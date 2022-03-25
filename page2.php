@@ -17,7 +17,7 @@
             </nav>
         </header>
         <div id="main-contents">
-            This is page 2
+            This is page 2.5
         </div>
         <footer>
             Contact us at webmaster@mywebsite.com
